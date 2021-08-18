@@ -83,6 +83,7 @@ void load_device_properties() {
                     "google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys",
                     "redfin-user 11 RQ3A.210805.001 7474174 release-keys",
                     "Redmi", "curtana", "Redmi Note 9S");
+        }
     }
 }
 
